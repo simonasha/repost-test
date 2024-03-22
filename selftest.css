@@ -1,0 +1,39 @@
+body { background-image: url(Thick\ forest\ 1080P\,\ 2K\,\ 4K\,\ 5K\ HD\ wallpapers\ free\ download\ \(2\).jfif); object-fit: cover; background-size: 100%;
+
+* {
+    align-items: center;
+}
+h1 { color:black;
+background-color: transparent;}
+
+hr {
+    size: 300px;
+}
+
+div { box-sizing: border-box;
+border-radius: 30px;
+background-color: transparent;
+display: flex;
+flex-direction: column;
+
+box-sizing: 300px;
+color: white;
+padding-left: 50px;}
+
+p {size: 100px;
+box-sizing: 40px;
+border-radius: 10px;
+font-size: 30px;
+}
+.asha {background-image: url(feedback-3.jpg);}
+.para { border: 80px;
+border-color: orangered;
+border-radius: 20px;
+background-color: black;
+padding-bottom: 50px;
+padding-top: 30px;
+padding-right: 40px;
+box-sizing: 50px;
+box-shadow: blue;
+margin-top: 30px;}
+h3 {font-size: 20px;}
